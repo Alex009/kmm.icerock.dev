@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # Gradle
 
+## Gradle 
+
 Android и Kotlin Multiplatform используют [Gradle](https://gradle.org/) как систему сборки. А мы на своих проектах используем чуть больше возможностей gradle, чем принято в типичном Android проекте. Поэтому важно немного погрузиться в тему Gradle.
 
 В первую очередь посмотрите видео:
@@ -16,3 +18,9 @@ Android и Kotlin Multiplatform используют [Gradle](https://gradle.org
 - как переиспользовать однотипный код в `Gradle` через [Convention plugins](../../learning/gradle/convention-plugins) и [Composite builds](../../learning/gradle/composite-build)
 - что такое [Version catalogs](../../learning/gradle/version-catalogs) и как с его помощью управлять списком внешних зависимостей.
 
+
+## mobile-multiplatform-gradle-plugin
+
+[github](https://github.com/icerockdev/mobile-multiplatform-gradle-plugin)
+
+[ссылка](/learning/kotlin-native/cocoapods#плагин-от-icerock)
